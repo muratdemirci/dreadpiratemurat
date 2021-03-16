@@ -19,7 +19,7 @@ social:
     url: recursiveself
 
 # General settings
-url: http://muratdemirci.github.com/dreadpiratemurat
+url: https://muratdemirci.github.io/dreadpiratemurat
 baseurl: "/dreadpiratemurat" 
 
 markdown: kramdown
