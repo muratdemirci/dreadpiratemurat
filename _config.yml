@@ -1,26 +1,24 @@
 # Your Name or Company
-title: Uni Kravitz
+title: Murat Demirci
 
 # Description of your website. This is used for social sharing.
 description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
 
 # A brief blurb about yourself
-content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.
+content: "Let us change our traditional attitude to the construction of programs: Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaining to human beings what we want a computer to do."
 
 # Add your social links
 social:
   - platform: github
-    url: https://github.com/brianmaierjr
-  - platform: facebook
-    url: https://facebook.com/brianmaierjr
+    url: https://github.com/muratdemirci
+  - platform: instagram
+    url: https://www.instagram.com/deusmur
   - platform: twitter
-    url: https://twitter.com/brianmaierjr
+    url: https://twitter.com/deusmur
   - platform: linkedin
-    url: brianmaierjr
+    url: recursiveself
 
-# General settings
-# url: http://brianmaierjr.github.com/uni
-# baseurl: "/uni" 
+
 markdown: kramdown
 sharing_image: share.jpg
 google_analytics: "UA-58263416-1" # google analytics tracking
@@ -32,3 +30,9 @@ half_side: right
 
 # Full layout
 full_text_position: right # left, right or center
+
+# General settings
+# url: http://brianmaierjr.github.com/uni
+# baseurl: "/uni" 
+
+# Credits: http://brianmaierjr.github.com/uni
