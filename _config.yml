@@ -18,6 +18,9 @@ social:
   - platform: linkedin
     url: recursiveself
 
+# General settings
+url: http://muratdemirci.github.com/dreadpiratemurat
+baseurl: "/dreadpiratemurat" 
 
 markdown: kramdown
 sharing_image: share.jpg
@@ -31,8 +34,6 @@ half_side: right
 # Full layout
 full_text_position: right # left, right or center
 
-# General settings
-# url: http://brianmaierjr.github.com/uni
-# baseurl: "/uni" 
+
 
 # Credits: http://brianmaierjr.github.com/uni
