@@ -19,12 +19,12 @@ social:
     url: recursiveself
 
 # General settings
-# url: https://muratdemirci.github.io/dreadpiratemurat
-# baseurl: "/dreadpiratemurat" 
+url: https://muratdemirci.github.io
+baseurl: "/dreadpiratemurat" 
 
 markdown: kramdown
 sharing_image: share.jpg
-google_analytics: "UA-58263416-1" # google analytics tracking
+#google_analytics: "UA-58263416-1" # google analytics tracking
 
 #### LAYOUT OPTIONS #####
 
@@ -33,7 +33,5 @@ half_side: right
 
 # Full layout
 full_text_position: right # left, right or center
-
-
 
 # Credits: http://brianmaierjr.github.com/uni
