@@ -16,7 +16,13 @@ social:
   - platform: twitter
     url: https://twitter.com/deusmur
   - platform: linkedin
-    url: recursiveself
+    url: https://www.linkedin.com/in/recursiveself
+  - platform: medium
+    url: https://medium.com/@deusmur
+  - platform: dev.to
+    url: https://dev.to/muratdemirci
+  - platform: goodreads
+    url: https://www.goodreads.com/recursiveself
 
 # General settings
 url: https://muratdemirci.github.io
