@@ -20,7 +20,7 @@ social:
 
 # General settings
 url: https://muratdemirci.github.io
-baseurl: "/dreadpiratemurat" 
+baseurl: /dreadpiratemurat
 
 markdown: kramdown
 sharing_image: share.jpg
