@@ -25,8 +25,8 @@ social:
     url: https://www.goodreads.com/recursiveself
 
 # General settings
-url: https://muratdemirci.github.io
-baseurl: /dreadpiratemurat
+# url: https://muratdemirci.github.io
+# baseurl: /dreadpiratemurat
 
 markdown: kramdown
 sharing_image: share.jpg
