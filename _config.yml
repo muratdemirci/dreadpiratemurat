@@ -24,6 +24,8 @@ social:
     url: https://dev.to/muratdemirci
   - platform: goodreads
     url: https://www.goodreads.com/recursiveself
+  - platform: imdb
+    url: https://www.imdb.com/list/ls095567664/
 
 # General settings
 # url: https://muratdemirci.github.io
