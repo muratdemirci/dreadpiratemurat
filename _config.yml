@@ -28,6 +28,8 @@ social:
     url: https://www.imdb.com/list/ls095567664/
   - platform: superpeer
     url: https://superpeer.com/muratdemirci
+  - platform: kommunity
+    url: https://kommunity.com/@deusmur    
 
 # General settings
 # url: https://muratdemirci.github.io
