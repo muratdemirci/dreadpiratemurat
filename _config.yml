@@ -26,6 +26,8 @@ social:
     url: https://www.goodreads.com/recursiveself
   - platform: imdb
     url: https://www.imdb.com/list/ls095567664/
+  - platform: superpeer
+    url: https://superpeer.com/muratdemirci
 
 # General settings
 # url: https://muratdemirci.github.io
