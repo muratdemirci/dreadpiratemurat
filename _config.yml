@@ -32,6 +32,8 @@ social:
     url: https://kommunity.com/@deusmur
   - platform: youtube
     url: https://bit.ly/deusmur_yt_sub
+  - platform: producthunt
+    url: https://www.producthunt.com/@muratdemirci
 
 # General settings
 # url: https://muratdemirci.github.io
